@@ -1,4 +1,9 @@
-// Tipagem dinâmica
+/*
+TIPOS DE DADOS - PRIMITIVOS
+
+- Oferece tipagem dinâmica
+
+*/
 
 // Number
 const idade = 22;
