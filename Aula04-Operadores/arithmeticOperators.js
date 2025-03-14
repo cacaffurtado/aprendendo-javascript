@@ -30,3 +30,5 @@ console.log("");
 numero = 11;
 console.log(`O resto da divisão de ${numero} por 2 é `+ numero % 2);
 console.log(`Logo, ${numero} é um número ímpar!`);
+
+console.log('---------------------------------------------')
