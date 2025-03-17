@@ -1,6 +1,6 @@
 # Módulo de JavaScript 👩‍💻
 
-Oi pessoal!
+Oi, pessoal!
 
 Estou revisando **JavaScript** e vou postar algumas das minhas aulas do **Curso de Front-end com Bia Codes na Comunidade Dev Completo**. 
 
